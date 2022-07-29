@@ -1,0 +1,45 @@
+.image{
+    background-image: url(../image/trou.jpg);
+    width: 1000px;
+    height: 1000px;
+    margin-top: 1000px;
+}
+
+h1{
+    border: 5px solid burlywood;
+    background-color: burlywood;
+    margin-top: 50px;
+    padding: 15px;
+    text-align: center
+}
+
+.image1{
+    background-image: url(../image/agent.png);
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+#formulaire{
+    padding-left: 200px;
+}
+.bouton{
+    width: 100px;
+    border-radius:20px ;
+}
+main{
+    border:2px solid seashell;
+   
+}
+header{
+    border:2px solid seashell;
+    margin-top: 300px;
+    margin-left: 300px;
+  
+}
+ section{
+    margin: 100px;
+ }
+ form{
+    margin:200px 50px 200px 300px; 
+  
+ }
